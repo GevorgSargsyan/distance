@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Distance</string>
+    <string name="title_activity_maps">Distance</string>
+    <string name="permission_request_title">warning</string>
+    <string name="app_permission_notice">You must enable location</string>
+    <string name="permission_refused">location is disabled</string>
+
+</resources>
